@@ -1,4 +1,4 @@
-FryZzApp
+The FryZzApp
 
-Program demo dedykowany obsłudze klientów w salonach fryzjerskich, kosmetycznych, SPA, pearcing'owych, tatuażu oraz manicure łączące możliwość zarządzania bazą pracowników wykonujących usługi fryzjerskie, kosmetyczne oraz inne i zarządzania bazą konkretnych klientów przypisanych danemu pracownikowi.
-Program FryZzApp kierowany jest zarówno do indywidualnych jak i sieciowych salonów usług fryzjerskich i kosmetycznych różnego typu, które chcą dobrze zarządzać obsługą klientów w zakresie umawiania, odwoływania i przenoszenia zaplanowanych wizyt klienta w kalendarzu.
+Demo program designed for customer service in hairdressing, cosmetics, SPA, pearcing, tattooing and manicures salons. It combines the ability to manage a database of employees providing hairdressing, cosmetics and other services. The demo also manages a database of specific customers assigned to a given employee. 
+The FryZzApp program is targeted to both individual and network hairdressing and beauty salons of various types which want to manage customer service well in the appointment, cancellation and transfer of scheduled customer visits in the calendar.
